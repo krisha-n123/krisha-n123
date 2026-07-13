@@ -70,12 +70,10 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/krisha-n123/krisha-n123/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/krisha-n123/krisha-n123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
