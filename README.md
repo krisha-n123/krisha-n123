@@ -1,28 +1,33 @@
-<h1 align="center">Hi 👋, I'm krishan kumar</h1>
-<h3 align="center">🚀 Passionate Software Developer | C++ | DSA | Web Development</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/gitkrisha-n123">
-    <img src="https://komarev.com/ghpvc/?username=gitkrisha-n123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+# Hi 👋, I'm Krisha
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Competitive+Programmer;C%2B%2B+%7C+DSA+%7C+MERN+Stack;Always+Learning+New+Things" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=krisha-n123&label=Profile+Views&style=for-the-badge&color=blue"/>
 </p>
 
+</div>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Computer Science Student
-- 🌱 Currently learning **MERN Stack & System Design**
-- 💻 Solving **Data Structures & Algorithms**
-- 🚀 Interested in Open Source
-- 📫 Reach me: **krisha6826@gmail.com**
+- 💻 Passionate about Data Structures & Algorithms
+- 🌱 Learning MERN Stack & System Design
+- 🚀 Open Source Enthusiast
+- ⚡ Love building real-world projects
 
 ---
 
-# 💻 Technical Skills
+# 🚀 Technical Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,dsa,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,bootstrap,tailwind&perline=9"/>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,bootstrap,tailwind,firebase&perline=10"/>
+
 </p>
 
 ---
@@ -30,13 +35,17 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitkrisha-n123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitkrisha-n123&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krisha-n123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha-n123&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=gitkrisha-n123&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=krisha-n123&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -44,7 +53,9 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gitkrisha-n123&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=krisha-n123&theme=algolia&column=7&no-frame=true"/>
+
 </p>
 
 ---
@@ -52,7 +63,9 @@
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitkrisha-n123&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisha-n123&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -60,29 +73,49 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gitkrisha-n123/gitkrisha-n123/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://raw.githubusercontent.com/krisha-n123/krisha-n123/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://github.com/krisha-n123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/krishanexe">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/krisha_n">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/krisha_n/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="mailto:krisha6826@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
 </p>
 
 ---
 
-## 💡 Quote
+# 💻 Coding Profiles
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+<p align="center">
+
+<a href="https://leetcode.com/u/krisha_n/">
+<img src="https://leetcard.jacoblin.cool/krisha_n?theme=dark&font=Karma&ext=heatmap"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
