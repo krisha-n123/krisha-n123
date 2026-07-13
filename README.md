@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Krisha
+# Hi 👋, I'm Krishan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Competitive+Programmer;C%2B%2B+%7C+DSA+%7C+MERN+Stack;Always+Learning+New+Things" />
 
@@ -38,7 +38,7 @@
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=krisha-n123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=krisha-n123&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha-n123&layout=compact&theme=tokyonight&hide_border=true"/>
