@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Krishan kumar
 
-<!--
-**krisha-n123/krisha-n123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C++ | Java | Web Development
 
-Here are some ideas to get you started:
+- 🌱 Learning DSA
+- 🚀 Solving LeetCode
+- 📫 Email: krisha6826@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+C++ • Java • HTML • CSS • JavaScript • React
+
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,react,nodejs,mysql,git,github,vscode)](https://skillicons.dev)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisha-n123&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=krisha-n123&theme=tokyonight)
+
+![snake gif](https://github.com/YOUR_USERNAME/krisha-n123/blob/output/github-contribution-grid-snake.svg)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=krisha-n123&theme=onedark)
+![](https://komarev.com/ghpvc/?username=krisha-n123)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/krishanexe)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/krisha_n)
