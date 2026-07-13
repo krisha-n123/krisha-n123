@@ -36,7 +36,10 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krisha-n123&show_icons=true&theme=tokyonight&hide_border=true" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=krisha-n123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha-n123&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -50,13 +53,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krisha-n123&theme=algolia&column=7&no-frame=true"/>
-
-</p>
 
 ---
 
@@ -90,23 +86,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/krisha_n/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+
 
 </p>
 
 ---
 
-# 💻 Coding Profiles
 
-<p align="center">
-
-<a href="https://leetcode.com/u/krisha_n/">
-<img src="https://leetcard.jacoblin.cool/krisha_n?theme=dark&font=Karma&ext=heatmap"/>
-</a>
-
-</p>
 
 ---
 
@@ -114,6 +100,5 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
 
 </div>
