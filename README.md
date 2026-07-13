@@ -1,30 +1,88 @@
-# Hi 👋 I'm Krishan kumar
+<h1 align="center">Hi 👋, I'm krishan kumar</h1>
+<h3 align="center">🚀 Passionate Software Developer | C++ | DSA | Web Development</h3>
 
-💻 C++ | Java | Web Development
+<p align="center">
+  <a href="https://github.com/gitkrisha-n123">
+    <img src="https://komarev.com/ghpvc/?username=gitkrisha-n123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-- 🌱 Learning DSA
-- 🚀 Solving LeetCode
-- 📫 Email: krisha6826@gmail.com
+---
 
-## Skills
+## 👨‍💻 About Me
 
-C++ • Java • HTML • CSS • JavaScript • React
+- 🎓 Computer Science Student
+- 🌱 Currently learning **MERN Stack & System Design**
+- 💻 Solving **Data Structures & Algorithms**
+- 🚀 Interested in Open Source
+- 📫 Reach me: **krisha6826@gmail.com**
 
-## 💻 Tech Stack
+---
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,react,nodejs,mysql,git,github,vscode)](https://skillicons.dev)
+# 💻 Technical Skills
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,dsa,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,bootstrap,tailwind&perline=9"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisha-n123&layout=compact&theme=tokyonight)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=krisha-n123&theme=tokyonight)
+# 📊 GitHub Statistics
 
-![snake gif](https://github.com/YOUR_USERNAME/krisha-n123/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitkrisha-n123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=krisha-n123&theme=onedark)
-![](https://komarev.com/ghpvc/?username=krisha-n123)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitkrisha-n123&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/krishanexe)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=gitkrisha-n123&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/krisha_n)
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gitkrisha-n123&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitkrisha-n123&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/gitkrisha-n123/gitkrisha-n123/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/krishanexe">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/krisha_n">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="mailto:krisha6826@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## 💡 Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
