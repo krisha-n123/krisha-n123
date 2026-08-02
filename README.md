@@ -32,49 +32,7 @@
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=krisha-n123&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha-n123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=krisha-n123&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisha-n123&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krisha-n123/krisha-n123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-# 🌐 Connect With Me
 
 <p align="center">
 
