@@ -1,6 +1,6 @@
-MD
+
 <div align="center">
-# Hi 👋, I'm Krishan
+## Hi 👋, I'm Krishan
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Competitive+Programmer;C%2B%2B+%7C+DSA+%7C+MERN+Stack;Always+Learning+New+Things" />
 <img src="https://komarev.com/ghpvc/?username=krisha-n123&label=Profile+Views&style=for-the-badge&color=blue"/>
