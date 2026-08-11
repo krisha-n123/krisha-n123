@@ -29,7 +29,7 @@
 
 ## Achievements
 
-* 🧩 Solved **200+ DSA problems**
+* 🧩 Solved **1000+ DSA problems**
 * 🏆 **NPTEL Cloud Computing** — **Top 5% (Topper Badge)**
 * 📈 **NPTEL Python** — **97 Percentile**
 * 💡 Completed a **MERN-focused virtual internship**
