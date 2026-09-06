@@ -89,8 +89,9 @@ A modern developer portfolio showcasing projects, skills, GitHub activity, and t
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krisha-n123&theme=github-compact&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=krisha-n123&theme=github-dark&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+
 
 ---
 
